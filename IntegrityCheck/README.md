@@ -1,6 +1,6 @@
-#IntegrityCheck
+# IntegrityCheck
 
-##Adding to path on windows
+## Adding to path on windows
 
 download pyinstaller with pip and run
 ```
