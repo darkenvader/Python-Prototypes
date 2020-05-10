@@ -15,4 +15,4 @@ pyinstaller -F IntegrityChecker
 Now add the folder that the .exe is residing to the environment variables path.
 Restart your cmd and test out the script
 ```
-IntegrityCheck _ _ file _ _
+IntegrityCheck * file *
