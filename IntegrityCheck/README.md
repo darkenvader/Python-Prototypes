@@ -2,7 +2,7 @@
 
 ## Adding to path on windows
 
-download pyinstaller with pip and run
+download pyinstaller
 ```
 pip3 install pyinstaller
 ```
@@ -13,3 +13,6 @@ pyinstaller -F IntegrityChecker
 ```
 
 Now add the folder that the .exe is residing to the environment variables path.
+Restart your cmd and test out the script
+```
+IntegrityCheck __file__
