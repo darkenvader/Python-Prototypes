@@ -17,3 +17,9 @@ Restart your cmd and test out the script
 ```
 IntegrityCheck file
 ```
+
+#IntrgrityCheck_v2
+Will update in future to have better cli interface.
+```
+IntegrityCheck_v2.py [filename] [hash (md5 or sha256)]
+```
