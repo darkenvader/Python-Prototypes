@@ -21,5 +21,7 @@ IntegrityCheck file
 # IntrgrityCheck_v2
 Will update in future to have better cli interface.
 ```
-IntegrityCheck_v2.py [filename] [hash (md5 or sha256)]
+IntegrityCheck_v2.py -h
+
+Example: IntegrityCheck_v2.py -f app.exe --sha256 5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8
 ```
